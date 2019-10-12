@@ -1,7 +1,11 @@
 # gpdb-centos8-build
-Build gpdb rpm for centos8 
 
-# Docker container with GPDB for development/testing
+Build gpdb rpm for centos8
+
+![MicroBadger Layers](https://img.shields.io/microbadger/layers/diarworld/gpdb-dev?style=for-the-badge)
+![MicroBadger Size](https://img.shields.io/microbadger/image-size/diarworld/gpdb-dev/centos8?style=for-the-badge)
+
+# Docker container for building GPDB rpm package
 
 
 ## Build locally
